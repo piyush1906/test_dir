@@ -1,0 +1,11 @@
+Create contest on hackerrank
+    https://gist.github.com/dhammika-marasinghe/96bb77d242d0d67f12fa
+    
+ASP.NET tutorial
+    http://asp.net-tutorials.com/
+
+Interactive ruby tutorial
+    http://tryruby.org/levels/1/challenges/0
+    
+Code translator
+    http://www.carlosag.net/tools/codetranslator
